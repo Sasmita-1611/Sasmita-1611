@@ -2,7 +2,7 @@
 
 Android Developer | Kotlin | MVVM
 
-- 💼 2.7+ years experience
+- 💼 2.8 years experience
 - 📱 Android SDK, Retrofit, Room, Hilt
 - ⚙️ MVVM Architecture
 - 🌱 Learning Jetpack Compose
